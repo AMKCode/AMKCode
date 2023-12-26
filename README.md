@@ -3,7 +3,7 @@
 - 📄 Resume: [here](https://drive.google.com/file/d/1XqsYGUif8TzCtRfViWH1CbxRrWgUE_rc/view?usp=sharing)
 - 🌐 Website: [here](https://amkcode.github.io/)
 - 🤵🏻 LinkedIn: [here](https://www.linkedin.com/in/mankit-ao/)
-- 📫 Email: [aomankit2002@gmail.com](mailto: aomankit2002@gmail.com)
+- 📫 Email: aomankit2002@gmail.com
 <!--
 **AMKCode/AMKCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

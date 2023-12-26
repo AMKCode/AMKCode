@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi! I'm Kit. I study computer science and chemical & biomolecular engineering at Johns Hopkins.
+- 🔭 I’m currently working on various machine learning and data science projects, as well as conducting research on physics-informed machine learning.
+- 📄 Resume: [here](https://drive.google.com/file/d/1XqsYGUif8TzCtRfViWH1CbxRrWgUE_rc/view?usp=sharing)
+- 🌐 Website: [here](https://amkcode.github.io/)
+- 🤵🏻 LinkedIn: [here](https://www.linkedin.com/in/mankit-ao/)
+- 📫 Email: [aomankit2002@gmail.com](mailto: aomankit2002@gmail.com)
 <!--
 **AMKCode/AMKCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

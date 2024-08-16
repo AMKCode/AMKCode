@@ -1,4 +1,4 @@
-### Hi! I'm Kit. I study computer science and chemical & biomolecular engineering at Johns Hopkins.
+### Hi! I'm Kit.
 - 🔭 I’m currently working on various machine learning and data science projects, as well as conducting research on physics-informed machine learning.
 - 👯 I’m open to new project and internship opportunities in the fields of machine learning and data science.
 - 📄 Resume: [here](https://drive.google.com/file/d/1XqsYGUif8TzCtRfViWH1CbxRrWgUE_rc/view?usp=sharing)

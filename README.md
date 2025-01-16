@@ -1,10 +1,9 @@
 ### Hi! I'm Kit.
 - 🔭 I’m interesting in building reliable machine learning systems and AI engineering.
 - 👯 I’m open to new project and internship opportunities and possible collaborations.
-- 📄 Resume: [here](https://drive.google.com/file/d/1p-Un8lXfze-D6-RGaygNu_70Bk1IK_Li/view?usp=drive_link)
 - 🌐 Website: [here](https://amkcode.github.io/)
 - 🤵🏻 LinkedIn: [here](https://www.linkedin.com/in/mankit-ao/)
-- 📫 Email: aomankit2002@gmail.com
+- 📫 Email: m.kitao186@gmail.com
 <!--
 **AMKCode/AMKCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

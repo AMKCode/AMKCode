@@ -1,7 +1,6 @@
 ### Hi! I'm Kit.
 - 🔭 I’m interesting in building reliable machine learning systems and AI engineering.
 - 👯 I’m open to new project and internship opportunities and possible collaborations.
-- 🌐 Website: [here](https://amkcode.github.io/)
 - 🤵🏻 LinkedIn: [here](https://www.linkedin.com/in/mankit-ao/)
 - 📫 Email: m.kitao186@gmail.com
 <!--
